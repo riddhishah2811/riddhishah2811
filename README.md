@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riddhishah
 - 👀 I’m interested in software development and backend roles
 - 🌱 I’m currently learning microservices and spring boot
-- 📫 How to reach me - riddhishah2222@gmil.com
+- 📫 How to reach me - riddhishah2222@gmail.com
 
 <!---
 riddhishah2811/riddhishah2811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
